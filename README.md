@@ -1,4 +1,4 @@
-SQL Server, Python, and Power BI Data Analysis Project
+1-SQL Server, Python, and Power BI Data Analysis Project
 Project Overview
 This project demonstrates how to analyze and visualize data efficiently using a combination of SQL Server, Python, and Power BI. The project covers:
 
